@@ -1,6 +1,6 @@
 # Demystifying ConvNets
 
-Th goal is to maintain a collection of ipython notebooks to provide a less mathematical and more intuitive feel as to
+The goal is to maintain a collection of ipython notebooks to provide a less mathematical and more intuitive feel as to
  why convolutional nets work.
 
 There are several excellent blog posts explaining what convolutions are, how Conv, ReLU, MaxPooling operations 
